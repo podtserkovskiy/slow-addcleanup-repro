@@ -1,5 +1,7 @@
 # slow-addcleanup-repro
 
+For golang/go issue [#75188](https://github.com/golang/go/issues/75188)
+
 Benchmark code inspired by [Daniel Lemire's](https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/) article
 
 Tests executed on Go 1.25.0
